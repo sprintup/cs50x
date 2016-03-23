@@ -1,0 +1,1 @@
+[HarvardX CS50 Course](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info) is free 12 week introduction to core computer science concepts. 
