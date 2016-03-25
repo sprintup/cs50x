@@ -1,0 +1,1 @@
+[spec](http://cdn.cs50.net/2016/x/psets/1/pset1/pset1.html)
